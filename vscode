@@ -1,0 +1,103 @@
+{
+    "telemetry.telemetryLevel": "off",
+    "editor.dragAndDrop": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.eol": "\n",
+    "editor.minimap.enabled": false,
+    "workbench.startupEditor": "none",
+    // "python.languageServer": "Pylance",
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 0 }",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "C_Cpp.default.compilerPath": "C:\\msys64\\mingw64\\bin\\gcc.exe",
+    "svelte.enable-ts-plugin": true,
+    "ppm-pgm-viewer-for-vscode.imagepreview.hidePanel": true,
+    "cmake.configureOnOpen": false,
+    "cmake.showOptionsMovedNotification": false,
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "python.terminal.activateEnvInCurrentTerminal": false,
+    "git.openRepositoryInParentFolders": "never",
+    "remote.SSH.remotePlatform": {
+        "mac": "macOS",
+        "server": "linux",
+        "minecraft": "linux",
+        "minecraft-old": "linux",
+        "ai": "linux",
+        "hh": "linux",
+        "nvidia": "linux",
+        "pdev11": "linux",
+        "image_builder": "linux",
+        "ebuild21": "linux",
+        "ImageBuilder": "linux",
+        "high_mem": "linux",
+        "image_2": "linux",
+        "ncbi": "linux"
+    },
+    "remote.SSH.useLocalServer": true,
+    "remote.SSH.enableAgentForwarding": true,
+    "remote.SSH.showLoginTerminal": true,
+    "remote.SSH.logLevel": "debug",
+    "editor.stickyScroll.enabled": false,
+    "window.newWindowDimensions": "inherit",
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "window.dialogStyle": "custom",
+    "window.titleBarStyle": "custom",
+    "debug.allowBreakpointsEverywhere": true,
+    "chat.commandCenter.enabled": false,
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.externalBrowser": "chrome",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "chat.disableAIFeatures": true,
+    "editor.fontFamily": "Monaspace Neon, Droid Sans Mono, monospace",
+    "editor.fontLigatures": true,
+    "files.autoSaveDelay": 1000,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "explorer.autoReveal": false,
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "python.terminal.shellIntegration.enabled": false,
+    "telemetry.feedback.enabled": false,
+    "telemetry.editStats.enabled": false,
+    // "terminal.integrated.shellIntegration.enabled": false,
+    "files.associations": {
+        "*.pmid": "diff"
+    },
+    "lldb.suppressUpdateNotifications": true,
+    "editor.selectionClipboard": false,
+    "git.confirmSync": false,
+    "files.autoSave": "afterDelay",
+    "[markdown]": {
+        "editor.wordWrap": "off"
+    },
+    "xml.server.vmargs": "-Xmx512M",
+    "extensions.ignoreRecommendations": true,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "/usr/lib/jvm/java-21-openjdk-amd64/",
+            "default": true
+        }
+    ],
+    "java.project.sourcePaths": [
+        "decompiled"
+    ],
+    "java.compile.nullAnalysis.mode": "disabled",
+    "editor.wordBasedSuggestions": "off",
+}
